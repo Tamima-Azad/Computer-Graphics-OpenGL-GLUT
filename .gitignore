@@ -1,0 +1,28 @@
+
+# Compiled C/C++ files
+*.exe
+*.o
+*.obj
+*.out
+*.a
+
+# Build folders
+build/
+Debug/
+Release/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
